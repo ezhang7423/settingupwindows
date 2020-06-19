@@ -24,7 +24,7 @@ Windows is amazing, but also terrible. So even though it's my OS of choice, it u
 8. Set up [OOSU10](https://www.oo-software.com/en/shutup10), config in this repo
 9. [Openvpn connect](https://35.236.111.94:943/), add to shell startup
 10. [Office](https://help.lsit.ucsb.edu/hc/en-us/articles/115000095531-Download-Microsoft-Office365-student-package)
-
+11. [Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab)
 ## optional
 
 ### AI
