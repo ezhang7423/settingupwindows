@@ -16,9 +16,10 @@ Windows is amazing, but also terrible. So even though it's my OS of choice, it u
     * [Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/)
     * [VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
     * [VS Code](https://code.visualstudio.com/), download settings sync first
-    * [PyCharm](https://www.jetbrains.com/pycharm/)
-    
-7. :(
+    * [PyCharm](https://www.jetbrains.com/pycharm/)    
+    * [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+    * [Slack](https://slack.com/)
+    * [Telegram](https://desktop.telegram.org/)     
+7. Enable WSL, either import from hard drive or fresh install <-- prefer VM 
+8. Set up OOSU10, config in this repo
 
----
-Note for eddie: (Your VMs and backup OS are on your 860 evo)
