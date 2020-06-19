@@ -13,6 +13,6 @@ Windows is amazing, but also terrible. So even though it's my OS of choice, it u
 4. Install [both](https://github.com/ezhang7423/secret-sauce)
 5. Install [Banana](https://www.vb-audio.com/Voicemeeter/banana.htm) and load the increasemic.xml in this repo
 6. Download the following:
-  * Geforce Experience
-  * VMware
-  * 
+  1. Geforce Experience
+  2. VMware
+  3. f
