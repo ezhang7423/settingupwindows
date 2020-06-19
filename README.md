@@ -22,7 +22,7 @@ Windows is amazing, but also terrible. So even though it's my OS of choice, it u
     * [Telegram](https://desktop.telegram.org/)     
 7. Enable [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10), either import from hard drive or fresh install <-- prefer VM 
 8. Set up [OOSU10](https://www.oo-software.com/en/shutup10), config in this repo
-
+9. [Openvpn connect](https://35.236.111.94:943/)
 
 ## optional
 
