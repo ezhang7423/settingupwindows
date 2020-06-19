@@ -8,11 +8,17 @@ Windows is amazing, but also terrible. So even though it's my OS of choice, it u
 
 (assuming we're starting completely fresh)
 1. Uninstall OneDrive from control panel
-2. Install [chrome](https://www.google.com/chrome/), login and sync to get extensions, bookmarks, apps. Then disable, relogin as fut and then ete.
+2. Install [chrome](https://www.google.com/chrome/), login and sync to get extensions, bookmarks, apps. Then disable, relogin as fut and then ete. Configure ABP settings
 3. Download [AutoHotKey](https://www.autohotkey.com/) and [secret sauce](https://github.com/ezhang7423/secret-sauce/releases/download/v69.420/windows-secret-sauce.ahk)
 4. Install [both](https://github.com/ezhang7423/secret-sauce)
 5. Install [Banana](https://www.vb-audio.com/Voicemeeter/banana.htm) and load the increasemic.xml in this repo
 6. Download the following:
-    * Geforce Experience
-    * VMware
+    * [Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/)
+    * [VMware](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
+    * [VS Code](https://code.visualstudio.com/), download settings sync first
+    * [PyCharm](https://www.jetbrains.com/pycharm/)
+    
 7. :(
+
+---
+Note for eddie: (Your VMs and backup OS are on your 860 evo)
