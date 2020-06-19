@@ -20,6 +20,20 @@ Windows is amazing, but also terrible. So even though it's my OS of choice, it u
     * [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
     * [Slack](https://slack.com/)
     * [Telegram](https://desktop.telegram.org/)     
-7. Enable WSL, either import from hard drive or fresh install <-- prefer VM 
-8. Set up OOSU10, config in this repo
+7. Enable [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10), either import from hard drive or fresh install <-- prefer VM 
+8. Set up [OOSU10](https://www.oo-software.com/en/shutup10), config in this repo
+
+
+## optional
+
+### AI
+
+* get [visual studio](https://visualstudio.microsoft.com/) for c++, install [cuda](https://developer.nvidia.com/cuda-downloads) and [cudnn](https://developer.nvidia.com/cudnn) drivers
+* use anaconda for tensorflow and tensorlayer, and pytorch
+
+### Xserv
+
+* Either use VM, or
+* [VcXsrv](https://sourceforge.net/projects/vcxsrv/). xlaunch files in this repo. [tutorial](https://www.youtube.com/watch?v=UWlsS6Jaibc)
+
 
