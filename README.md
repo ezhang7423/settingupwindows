@@ -2,7 +2,7 @@
 
 ## introduction 
 
-Windows is amazing, but also terrible. So even though it's my OS of choice, it usually stops working after 6 months. This is an event that is typically followed by swearing up and down never to use Windows again and cursing Bill Gates, and then a sad hope that if I give it just one more try, it'll never fail again. So here we are again. This time, however, I'm going to document my setup so that in the future that this sad cycle will be faster to get through. Additionally, if you use windows, you might find some useful tools here.
+Windows is amazing, but also terrible. So even though it's my OS of choice, it usually stops working after 6 months. This is an event that is typically followed by swearing up and down never to use Windows again and cursing Bill Gates, and then a sad hope that if I give it just one more try, it'll never fail again. So here we are again. This time, however, I'm going to document my setup so that in the future that this sad cycle will be faster to get through. Additionally, if you use windows, you might find some useful tools here. I put all my program files on the C: drive, and all other files on a different hard drive. This way if the OS ever breaks, I still have all my files.
 
 ## actualsetup
 
